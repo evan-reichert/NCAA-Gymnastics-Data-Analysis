@@ -81,4 +81,4 @@ The goal was to move beyond raw rankings and develop custom performance metrics 
    pip install pandas matplotlib
 
 3. Run the script:
-   python your_script_name.py
+   python analyze.py
