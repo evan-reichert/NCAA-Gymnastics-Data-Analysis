@@ -69,3 +69,16 @@ The goal was to move beyond raw rankings and develop custom performance metrics 
 - Add interactive visualizations
 - Expand dataset to include athlete-level analysis
 - Implement predictive modeling
+
+---
+
+## How to Run
+
+1. Clone the repository:
+   git clone https://github.com/evan-reichert/NCAA-Gymnastics-Performance-Analytics.git
+
+2. Install dependencies:
+   pip install pandas matplotlib
+
+3. Run the script:
+   python your_script_name.py
