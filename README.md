@@ -75,7 +75,7 @@ The goal was to move beyond raw rankings and develop custom performance metrics 
 ## How to Run
 
 1. Clone the repository:
-   git clone https://github.com/evan-reichert/NCAA-Gymnastics-Performance-Analytics.git
+   git clone https://github.com/evan-reichert/NCAA-Gymnastics-Data-Analysis.git
 
 2. Install dependencies:
    pip install pandas matplotlib
