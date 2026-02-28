@@ -31,8 +31,8 @@ The goal was to move beyond raw rankings and develop custom performance metrics 
 
 ### Visualization
 - Generated ranked performance charts using Matplotlib
-- Visualized event impact on total score
-- Produced comparative team performance graphs
+- Visualized team dominance across all charted years
+- Produced a bar graph that displays the relationship of team vs. their dominance
 
 ---
 
